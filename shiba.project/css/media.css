@@ -1,0 +1,20 @@
+@font-face{
+    src: url(../fonts/SFPRODISPLAYREGULAR.OTF);
+    font-family: 'SF Pro Regular';
+    font-weight: 400;
+}
+@font-face{
+    src: url(../fonts/SFPRODISPLAYMEDIUM.OTF);
+    font-family: 'SF Pro Medium';
+    font-weight: 500;
+}
+@font-face{
+    src: url(../fonts/SFPRODISPLAYBOLD.OTF);
+    font-family: 'SF Pro Bold';
+    font-weight: 600;
+}
+@font-face{
+    src: url(../fonts/SFPRODISPLAYULTRALIGHTITALIC.OTF);
+    font-family: 'SF Pro Light';
+    font-weight: 200;
+}
